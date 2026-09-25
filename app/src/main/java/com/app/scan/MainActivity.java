@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // URL ditulis dalam satu baris utuh
-        webView.loadUrl("https://seyabetaedu.blogspot.com/2026/09/koreksi-otomatis-pilihan-ganda-d.html");
+        webView.loadUrl("https://scan32.blogspot.com");
     }
 
     private void hideSystemUI() {
