@@ -54,9 +54,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        webView.loadUrl("https://seyabetaedu.blogspot.com/2026/09/koreksi-otomatis-pilihan-ganda-d.html
-
-");
+        // URL ditulis dalam satu baris utuh
+        webView.loadUrl("https://seyabetaedu.blogspot.com/2026/09/koreksi-otomatis-pilihan-ganda-d.html");
     }
 
     private void hideSystemUI() {
