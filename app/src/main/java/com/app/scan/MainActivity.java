@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
         webView.setWebChromeClient(new WebChromeClient());
 
-        webView.loadUrl("https://catpaksutrisno.blogspot.com");
+        webView.loadUrl("https://seyabetaedu.blogspot.com/2026/09/koreksi-otomatis-pilihan-ganda-d.html");
     }
 
     @Override
