@@ -10,6 +10,7 @@
         android:allowBackup="true"
         android:label="Scan Dokumen"
         android:icon="@drawable/logo"
+        android:usesCleartextTraffic="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
 
         <activity
@@ -22,4 +23,5 @@
             </intent-filter>
         </activity>
     </application>
+
 </manifest>
